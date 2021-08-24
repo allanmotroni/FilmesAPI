@@ -1,0 +1,7 @@
+Migrations
+
+* Criar a migração
+Add-Migration <descrição>
+
+* Rodar a migração
+Update-Database
